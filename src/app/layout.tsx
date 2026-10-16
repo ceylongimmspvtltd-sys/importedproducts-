@@ -7,9 +7,9 @@ import Footer from "@/components/Footer";
 import CartDrawer from "@/components/CartDrawer";
 
 export const metadata: Metadata = {
-  title: "Imported Products LK — Tattoo, Nails, Lashes & Beauty Store",
+  title: "Osho.lk - Online Shopping | Tattoo, Nails, Lashes & Beauty Store",
   description:
-    "Shop 600+ imported tattoo and beauty products in Sri Lanka: cartridge needles, tattoo inks, machines, nail extensions, eyelash extensions, hair extensions, skincare and more — with real LKR prices and islandwide delivery.",
+    "Osho.lk - Online Shopping: shop 600+ imported tattoo and beauty products in Sri Lanka — cartridge needles, tattoo inks, machines, nail extensions, eyelash extensions, hair extensions, skincare and more, with real LKR prices and islandwide delivery.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

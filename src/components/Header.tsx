@@ -39,15 +39,15 @@ export default function Header() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center gap-4">
           <Link href="/" className="flex shrink-0 items-center gap-2.5">
-            <span className="grid h-10 w-10 place-items-center rounded-xl bg-rose-600 text-sm font-black tracking-tight">
-              IP
+            <span className="grid h-10 w-10 place-items-center rounded-xl bg-rose-600 text-base font-black tracking-tight">
+              O
             </span>
             <span className="leading-tight">
-              <span className="block text-sm font-extrabold tracking-wide sm:text-base">
-                IMPORTED PRODUCTS
+              <span className="block text-base font-extrabold tracking-wide sm:text-lg">
+                Osho.lk
               </span>
               <span className="block text-[10px] uppercase tracking-[0.22em] text-zinc-400">
-                Tattoo &amp; Beauty Store · Sri Lanka
+                Online Shopping · Sri Lanka
               </span>
             </span>
           </Link>

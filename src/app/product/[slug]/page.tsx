@@ -28,8 +28,8 @@ export async function generateMetadata({
   const product = products.find((p) => p.id === slug);
   if (!product) return { title: "Product not found" };
   return {
-    title: `${product.name} — Imported Products LK`,
-    description: `${product.name} — ${priceLabel(product)}. ${product.category}, available in Sri Lanka with islandwide delivery.`,
+    title: `${product.name} — Osho.lk - Online Shopping`,
+    description: `${product.name} — ${priceLabel(product)}. ${product.category}, available at Osho.lk in Sri Lanka with islandwide delivery.`,
   };
 }
 

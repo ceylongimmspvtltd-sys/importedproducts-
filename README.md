@@ -1,4 +1,4 @@
-# Imported Products LK — E-commerce Store
+# Osho.lk - Online Shopping — E-commerce Store
 
 A full e-commerce style web store built with **Next.js (App Router) + TypeScript + Tailwind CSS v4**, generated from the "Tatoo Products Liast 11" product list (607 products).
 

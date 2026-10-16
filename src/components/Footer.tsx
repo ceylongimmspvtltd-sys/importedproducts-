@@ -11,15 +11,15 @@ export default function Footer() {
         <div className="grid gap-10 md:grid-cols-4">
           <div>
             <div className="flex items-center gap-2.5">
-              <span className="grid h-10 w-10 place-items-center rounded-xl bg-rose-600 text-sm font-black text-white">
-                IP
+              <span className="grid h-10 w-10 place-items-center rounded-xl bg-rose-600 text-base font-black text-white">
+                O
               </span>
               <span className="leading-tight">
-                <span className="block text-sm font-extrabold tracking-wide text-white">
-                  IMPORTED PRODUCTS
+                <span className="block text-base font-extrabold tracking-wide text-white">
+                  Osho.lk
                 </span>
                 <span className="block text-[10px] uppercase tracking-[0.22em] text-zinc-400">
-                  Tattoo &amp; Beauty Store · Sri Lanka
+                  Online Shopping · Sri Lanka
                 </span>
               </span>
             </div>
@@ -77,7 +77,7 @@ export default function Footer() {
             <ul className="mt-4 space-y-2.5 text-sm text-zinc-400">
               <li>Colombo, Sri Lanka</li>
               <li>Mon – Sat · 9.00am – 6.00pm</li>
-              <li>hello@importedproducts.lk</li>
+              <li>hello@osho.lk</li>
               <li>Islandwide delivery available</li>
             </ul>
           </div>
@@ -85,7 +85,7 @@ export default function Footer() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/10 pt-6 text-xs text-zinc-500 sm:flex-row">
           <p>
-            © <Year /> Imported Products LK. All rights reserved.
+            © <Year /> Osho.lk - Online Shopping. All rights reserved.
           </p>
           <p>Prices shown in Sri Lankan Rupees (LKR).</p>
         </div>
